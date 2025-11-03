@@ -1,0 +1,6 @@
+This is the commit for branch1
+New changes are added
+practising git merge
+
+git conflict
+conflict resolving between 2 users
